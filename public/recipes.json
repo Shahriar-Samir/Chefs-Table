@@ -1,0 +1,56 @@
+[
+    {
+        "recipe_img": "https://i.ibb.co/mtDskw4/noddles.jpg",
+        "recipe_id": 1,
+        "recipe_name": "Spaghetti Pasta",
+        "short_description": "Classic Italian pasta dish with savory meat sauce.",
+        "preparing_time": 30,
+        "calories": 600,
+        "ingredients": ["500g ground beef", "1 onion, chopped", "2 cloves garlic, minced"]
+    },
+    {
+        "recipe_img": "https://i.ibb.co/qy00vFy/salad.jpg",
+        "recipe_id": 2,
+        "recipe_name": "Chicken Caesar Salad",
+        "short_description": "Fresh and Crisp salad with grilled chicken and Caesar dressing",
+        "preparing_time": 20,
+        "calories": 400,
+        "ingredients": ["200g grilled chicken and Caesar dressing", "Romaine lettuce, chopped", "1/2 cup croutons"]
+    },
+    {
+        "recipe_img": "https://i.ibb.co/GF2PdDt/fried-vegetables-with-sauce-pan.jpg",
+        "recipe_id": 3,
+        "recipe_name": "Vegetable Stir-Fry",
+        "short_description": "Quick and healthy vegetable stir-fry with a flavorful sauce.",
+        "preparing_time": 25,
+        "calories": 500,
+        "ingredients": ["2 cups mixed vegetables (bell peppers, broccoli, carrots)", "200g tofu", "3 tablespoons soy sauce", "1 tablespoon sesame oil"]
+    },
+    {
+        "recipe_img": "https://i.ibb.co/rcs8hYy/11251.jpg",
+        "recipe_id": 4,
+        "recipe_name": "Lasagna",
+        "short_description": "Layered pasta dish with rich tomato sauce, ground beef, and melted cheese.",
+        "preparing_time": 40,
+        "calories": 750,
+        "ingredients": ["500g ground beef", "400g lasagna noodles", "600g tomato sauce"]
+    },
+    {
+        "recipe_img": "https://i.ibb.co/5hJ92BL/penne-pasta-with-pesto-sauce-zucchini-green-peas-basil-italian-food.jpg",
+        "recipe_id": 5,
+        "recipe_name": "Pesto Pasta",
+        "short_description": "Pasta dish with fresh basil pesto, pine nuts, and Parmesan cheese.",
+        "preparing_time": 25,
+        "calories": 550,
+        "ingredients": ["300g pasta", "2 cups fresh basil leaves", "1/2 cup grated Parmesan cheese", "1/3 cup pine nuts", "2 cloves garlic"]
+    },
+    {
+        "recipe_img": "https://i.ibb.co/X8MtHf5/10223.jpg",
+        "recipe_id": 6,
+        "recipe_name": "Mushroom Risotto",
+        "short_description": "Creamy Italian rice dish with flavorful mushrooms and Parmesan cheese.",
+        "preparing_time": 35,
+        "calories": 700,
+        "ingredients": ["1 cup Arborio rice", "200g mushrooms", "1/2 cup grated Parmesan cheese", "1 onion, chopped"]
+    }
+]
