@@ -1,8 +1,8 @@
-# React + Vite
+Live website link: https://chefs-table-liart.vercel.app/
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A frontend website based on food cooking orders.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Features:
+1. One can visit this website and see different types of recipes.
+2. One can add a food to want to cook list.
+3. Cliking preparing button will be sent to cooking list.
